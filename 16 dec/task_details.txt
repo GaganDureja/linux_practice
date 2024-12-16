@@ -1,0 +1,2 @@
+Make a csv containing fname,lname,email,mobile,city
+Run a script with name and return that data details
