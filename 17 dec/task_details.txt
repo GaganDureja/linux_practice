@@ -1,0 +1,2 @@
+Make a csv containing fname,lname,email,mobile,city
+Run a script which require name and data column to retrieve then return that data details if found

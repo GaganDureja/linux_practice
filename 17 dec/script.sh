@@ -37,7 +37,7 @@ while IFS='|' read -r fname lname email mobile country; do
         exit 1
         ;;
     esac
-    break
+    # break
   fi
 done < file.csv
 if [ "$FOUND" = false ]; then
